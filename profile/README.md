@@ -1,193 +1,276 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="160" alt="당당 로고" />
+<img src="./assets/hero.png" width="100%" alt="당당 랜딩 — 병원에서 받은 기준대로, 하루가 끊기지 않게" />
+
+<br/>
 
 # 당당
 
-### 병원에서 받은 기준대로, 하루가 끊기지 않게
+임신성 당뇨 진단을 받은 임신부를 위한 기록 앱
 
-임신성 당뇨 산모의 식사 · 혈당 · 진료 · 산후 관리를 **하나로 잇는** 케어 서비스
+[**dang-dang.site 바로가기 →**](https://dang-dang.site)
+
+</div>
 
 <br/>
+<br/>
 
-[![당당 시작하기](https://img.shields.io/badge/당당_시작하기-dang--dang.vercel.app-FBB315?style=for-the-badge&logoColor=white)](https://dang-dang.vercel.app)
+<div align="center">
+
+<sub>WHY</sub>
+
+## 진료실 밖의 하루는<br/>산모 혼자의 몫이었어요
+
+*"식후 1시간에 재세요."*<br/>
+진료실에서 들은 이 한마디를 지키는 일은<br/>
+집으로 돌아온 산모가 혼자 해내야 했어요.
 
 </div>
 
 <br/>
 
-> *"식후 1시간에 재세요."*
-> 진료실에서 들은 이 한마디를 지키는 건, 집으로 돌아온 산모 혼자의 몫이었습니다.
+<div align="center">
+
+### 산모 8명 중 1명
+
+임신성 당뇨 유병률은 10년 사이<br/>
+**7.6%에서 12.4%로** 늘었어요.
+
+<img src="./assets/evidence-prevalence.png" width="88%" alt="연합뉴스 기사 — 임신 당뇨병 유병률 2013년 7.6%에서 2023년 12.4%" />
+
+<sub>연합뉴스, 2025.10.23 · <a href="https://m.bokjiro.go.kr/ssis-tem/cms/mob/news/news/1308835_1122.html">원문 보기</a></sub>
 
 <br/>
+<br/>
 
-## 🤰 열 명 중 한 명이 넘는 산모가 겪는 일
+### 출산 뒤엔 절반도 검사받지 않아요
 
-임신성 당뇨는 더 이상 드문 일이 아닙니다.
-유병률은 **2013년 7.6%에서 2023년 12.4%로** 늘었습니다.
+산후 1년 안에 혈당 검사를 받은 산모는<br/>
+**42.9%** 에 그쳐요.
 
-진단을 받는 순간부터 하루가 바뀝니다.
-끼니마다 시간을 재고, 혈당을 찍고, 무엇을 먹었는지 적고, 2주 뒤 진료실에 들고 가야 합니다.
-입덧과 피로 속에서 이 모든 걸 **매일, 빠짐없이** 해내기란 쉽지 않습니다.
+<img src="./assets/evidence-postpartum.png" width="88%" alt="Diabetes & Metabolism Journal — 산후 1년 내 혈당 검사율 42.9%" />
 
-그리고 출산과 함께 관리는 멈춥니다.
-산후 1년 안에 혈당 검사를 받는 산모는 **42.9%** 뿐입니다.
-임신성 당뇨를 겪은 산모는 이후 제2형 당뇨 위험이 높은데도요.
+<sub>Moon JH 외, <i>Diabetes Metab J</i> 2026 · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12996964/">원문 보기</a></sub>
 
+<br/>
+<br/>
+
+### 그런데 위험은 계속돼요
+
+임신성 당뇨를 겪은 산모는 14년 동안<br/>
+**21.3%** 가 제2형 당뇨로 이어졌어요.
+
+<img src="./assets/evidence-t2d.png" width="88%" alt="Endocrinology and Metabolism — 14년 추적 제2형 당뇨 발생 21.3%" />
+
+<sub>국내 전국 코호트, <i>Endocrinol Metab</i> · <a href="https://e-enm.org/journal/view.php?number=2270">원문 보기</a></sub>
+
+</div>
+
+<br/>
 <br/>
 
 <div align="center">
 
-### 당당은 이 끊어진 하루를 다시 잇습니다.
+<sub>BACKGROUND</sub>
+
+## 병원과 병원 사이,<br/>그 빈칸을 채워요
+
+<img src="./assets/background.png" width="100%" alt="진단 뒤 자주 듣는 말 — 식후 1시간, 공복 혈당, 혈당 기록지, 목표 범위, 다음 진료일" />
+
+병원은 측정 시점과 목표 범위를 알려 줘요.<br/>
+그런데 끼니마다 시간을 맞춰 재고, 숫자를 적고,<br/>
+다음 진료 때 보여 주는 일은 혼자 해내야 해요.
+
+**당당은 병원에서 받은 기준을 하루 일정으로 바꿔**<br/>
+**측정 · 기록 · 진료 준비가 끊기지 않게 도와요.**
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<sub>HOW IT WORKS</sub>
+
+## 세 단계면<br/>오늘부터 시작해요
+
+<img src="./assets/how-it-works.png" width="100%" alt="1 식후 측정 시점 등록 · 2 측정할 때 알림 · 3 A4 한 장 진료 리포트" />
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<sub>FEATURES</sub>
+
+## 필요한 순간에<br/>필요한 것만 보여 줘요
+
+<br/>
+
+### 지금 할 일 하나만, 오늘 화면 맨 위에
+
+식사 전이면 '식사 시작', 측정할 때면 '혈당 입력'.<br/>
+시간에 따라 첫 카드가 바뀌어서<br/>
+무엇을 할지 고민하지 않아도 돼요.
+
+<img src="./assets/feature-today.png" width="440" alt="오늘 화면 — 식사 전과 저장 직후" />
+
+<br/>
+<br/>
+
+### 사진 한 장이면 먹은 음식 후보를 찾아 줘요
+
+한식 150종을 배운 AI가 음식 후보를 보여 주고,<br/>
+맞는지 직접 확인한 뒤에 저장돼요.<br/>
+사진 없이 이름으로 적어도 괜찮아요.
+
+<img src="./assets/feature-meal.png" width="440" alt="식사 기록 — 사진 찍기와 AI 후보 결과" />
+
+<br/>
+<br/>
+
+### 진료 날엔 기록과 물어볼 것을 한 장에
+
+혈당 · 식사 기록을 A4 한 장 리포트로 정리하고,<br/>
+사진으로 저장해 진료 때 바로 보여 줘요.<br/>
+물어볼 것도 미리 적어 둘 수 있어요.
+
+<img src="./assets/feature-report.png" width="440" alt="진료 — 물어볼 것과 진료 리포트" />
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<sub>TRUST</sub>
+
+## 믿고 쓸 수 있도록<br/>지키는 세 가지
+
+<br/>
+
+**기준은 담당 의료진이 정해요**<br/>
+당당은 목표 범위나 측정 시점을 정하지 않아요.<br/>
+병원에서 받은 기준을 그대로 따라요.
+
+<br/>
+
+**진단 · 치료를 하지 않아요**<br/>
+수치를 판단하지 않고, 진료 때 물어볼 말로 정리해요.<br/>
+위험한 증상엔 AI 대신 정해진 안내를 바로 보여 줘요.
+
+<br/>
+
+**건강정보는 동의한 만큼만**<br/>
+건강 기록은 따로 동의한 뒤에만 다루고,<br/>
+AI 사진 기능도 따로 동의받아요.
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<sub>BRAND STORY</sub>
+
+## 당당이라는 이름에서<br/>모든 디자인이 시작됐어요
+
+<img src="./assets/brand-story.png" width="100%" alt="糖 + 堂 = 당당 · 걷는 D · 포인트에만 앰버" />
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<sub>TECH STACK</sub>
+
+## 이렇게 만들었어요
 
 </div>
 
 <br/>
 
-## 🍚 식사 시작, 한 번이면 충분해요
+<div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
+**Frontend**
 
-### 1️⃣
-**밥 먹기 전, 사진 한 장**
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind&theme=light" alt="React, TypeScript, Vite, Tailwind CSS" />
 
-<sub>사진을 올리면 AI가 음식 이름을 먼저 찾아 드려요. 고르기만 하면 기록 끝.</sub>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 2️⃣
-**잴 시간이 되면, 당당이가**
-
-<sub>내 병원 기준에 맞춰 식후 1·2시간에 알림이 와요. 놓쳐도 10분 뒤 다시.</sub>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 3️⃣
-**수치만 넣으면, 진료 준비까지**
-
-<sub>무엇을 먹고 잰 혈당인지 함께 남아, 진료 전 한 장의 리포트가 됩니다.</sub>
-
-</td>
-</tr>
-</table>
+<sub>Zustand · TanStack Query · PWA (웹 푸시)</sub>
 
 <br/>
-
-## ✨ 당당이 하는 일
-
-### ⏰ 내 병원 기준 그대로, 측정 알림
-측정 시점과 목표는 앱이 정하지 않습니다. **진료실에서 받은 기준을 그대로** 옮겨 두면, 끼니마다 알맞은 때에 알려 드려요.
-
-### 📸 사진 한 장으로 끝나는 식사 기록
-한식 150종을 학습한 AI가 사진 속 음식 이름 후보를 찾아 드립니다. 공공데이터 식품영양 정보와 연결되어 **무엇을 먹었는지가 정확하게** 남아요.
-
-### 📈 먹은 것과 이어진 혈당 기록
-숫자만 남는 기록이 아니라, **"어떤 식사 뒤의 수치인지"** 가 함께 보이는 타임라인. 내 몸의 패턴을 한눈에 볼 수 있어요.
-
-### 📄 진료실에 들고 가는 한 장
-2주치 기록과 물어보고 싶었던 것들을 **진료 전 리포트**로 정리해 드려요. 짧은 진료 시간이 온전히 상담에 쓰이도록.
-
-### 💬 언제든 물어보는 당당이
-"지난주 저녁 기록 보여 줘", "이거 다음 진료 때 물어볼래" — 당당이가 기록을 찾아 주고, **물어볼 말로 정리**해 둡니다.
-
-### 👶 출산 후에도, 끝까지
-출산 후 산후 혈당 검사와 정기 검진까지 챙겨 드려요. 검사를 마치는 날, 당당과 함께 **관리를 졸업**합니다.
-
 <br/>
 
-## 🛡️ 믿을 수 있는 이유
+**Backend**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=java,spring,gradle,postgres,redis&theme=light" alt="Java, Spring Boot, Gradle, PostgreSQL, Redis" />
 
-**🏥 기준은 언제나 병원이 정합니다**<br/>
-<sub>당당은 목표 혈당이나 측정 시점을 임의로 만들지 않아요. 진료에서 받은 기준만 따릅니다.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 AI는 판단하지 않고, 기록만 돕습니다**<br/>
-<sub>"이 수치 괜찮아요?"에는 대답 대신, 진료 때 물어볼 말로 정리해 드려요.</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**🚨 위험 신호엔 바로, 정해진 안내**<br/>
-<sub>위험한 증상이 언급되면 AI를 거치지 않고 미리 정한 안내를 즉시 보여 드립니다.</sub>
-
-</td>
-<td valign="top">
-
-**🔒 민감한 건강 정보는 따로 동의받아요**<br/>
-<sub>건강 기록은 별도 동의 후에만 다루고, 산모가 확인한 내용만 관리 기준에 반영합니다.</sub>
-
-</td>
-</tr>
-</table>
+<sub>Spring Security · JWT · JPA · Flyway · Swagger</sub>
 
 <br/>
-
-## 💛 당당이 만드는 변화
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-**산모에게**
-
-<sub>기억하고 챙기는 부담 대신,<br/>알림을 받고 확인만 하는 하루</sub>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**의료진에게**
-
-<sub>흩어진 수첩 대신,<br/>식사와 이어진 정리된 기록</sub>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**우리 사회에**
-
-<sub>산후 검사로 이어지는 관리,<br/>산후 당뇨의 조기 발견</sub>
-
-</td>
-</tr>
-</table>
-
 <br/>
 
-## 🔧 Built with
+**AI**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![공공데이터포털](https://img.shields.io/badge/공공데이터포털-0B57D0?style=flat-square)
-![Kakao](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black)
+<img src="https://skillicons.dev/icons?i=py,fastapi,pytorch&theme=light" alt="Python, FastAPI, PyTorch" />
 
-[Frontend](https://github.com/dangdang-2026/dangdang-fe) · [Backend](https://github.com/dangdang-2026/dangdang-be) · [AI](https://github.com/dangdang-2026/dangdang-ai)
+<sub>ONNX Runtime (한식 150종 분류) · OpenAI API (당당이 챗봇 · 물어볼 것 정리)</sub>
 
 <br/>
+<br/>
 
-## 👥 Team 당당
+**Infra**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,ubuntu,githubactions,vercel&theme=light" alt="Docker, Nginx, Ubuntu, GitHub Actions, Vercel" />
+
+<sub>KT Cloud · Let's Encrypt · Docker Hub</sub>
+
+<br/>
+<br/>
+
+**Collaboration**
+
+<img src="https://skillicons.dev/icons?i=figma,notion,github&theme=light" alt="Figma, Notion, GitHub" />
+
+<br/>
+<br/>
+
+<sub>공공데이터포털 식품영양성분 DB · 카카오 로그인</sub>
+
+</div>
+
+<br/>
+<br/>
 
 <div align="center">
+
+<sub>REPOSITORIES</sub>
+
+## 저장소
+
+| 저장소 | 하는 일 |
+|:---|:---|
+| [**dangdang-fe**](https://github.com/dangdang-2026/dangdang-fe) | 산모가 쓰는 화면 (PWA) |
+| [**dangdang-be**](https://github.com/dangdang-2026/dangdang-be) | 기록 · 알림 · 리포트 API |
+| [**dangdang-ai**](https://github.com/dangdang-2026/dangdang-ai) | 음식 사진 분류 · 당당이 챗봇 |
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<sub>TEAM</sub>
+
+## 팀 당당
 
 | <img src="https://avatars.githubusercontent.com/seungminng123" width="110" /> | <img src="https://avatars.githubusercontent.com/dahyun0423" width="110" /> |
 |:---:|:---:|
@@ -198,6 +281,7 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
 
@@ -205,8 +289,10 @@
 
 ### 혼자 챙기던 관리를, 이제 당당하게.
 
-[**당당 시작하기 →**](https://dang-dang.vercel.app)
+[**dang-dang.site →**](https://dang-dang.site)
 
-<sub>당당은 진단 · 치료를 대신하지 않으며, 모든 관리 기준은 담당 의료진의 지시를 따릅니다.</sub>
+<br/>
+
+<sub>당당은 진단 · 치료를 대신하지 않아요.<br/>모든 관리 기준은 담당 의료진의 안내를 따라요.</sub>
 
 </div>
